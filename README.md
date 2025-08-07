@@ -1,2 +1,2 @@
 # patikasite
-siteler
+site
